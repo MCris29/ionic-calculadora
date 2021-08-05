@@ -2,4 +2,4 @@
 
 ### Calculadora hecha en react utilizando react
 
-![image](https://github.com/MCris29/ionic-calculadora/blob/master/calculadora.png)
+![image](https://github.com/MCris29/ionic-calculadora/blob/master/images/calculadora.png)
